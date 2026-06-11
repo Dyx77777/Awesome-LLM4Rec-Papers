@@ -1,4 +1,4 @@
-# LLM for Recommendation Systems
+# LLM for Recommender Systems
 
 A list of awesome papers and resources of recommender system on large language model (LLM).
 
